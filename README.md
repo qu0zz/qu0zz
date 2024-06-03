@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning very slowly
 
 - 📫 How to reach me ... email, or leave a message..
-- ⚡ Fun fact: Chinese hardware producers are fantastic at making complex cheap electronics but not so great at produving a safe fused standard sized mains plug.
+- ⚡ Fun fact: Chinese hardware producers are fantastic at making complex cheap electronics but not so great at producing a safe fused standard sized mains plug.
 
 <!---
 qu0zz/qu0zz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
